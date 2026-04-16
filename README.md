@@ -3,7 +3,7 @@
 <div style="text-align: center">
   <img width="400px" src="https://qianwen-res.oss-accelerate.aliyuncs.com/Qwen3.6/logo.png">
   <p>
-    <a href="https://chat.qwen.ai/">💜 <b>Qwen Chat</b></a> |
+    <a href="https://chat.qwen.ai/">💜 <b>Qwen Studio</b></a> |
     <a href="https://huggingface.co/Qwen">🤗 Hugging Face</a> | 
     <a href="https://modelscope.cn/organization/qwen">🤖 ModelScope</a> | 
     📑 Paper |
@@ -78,11 +78,11 @@ To learn more about Qwen3.6, feel free to read our documentation (coming soon).
 
 You can try Qwen3.6 on our official sites and enjoy the native experience with extra features, such as deep research, web dev, and adaptive tool use.
 
-#### Qwen Chat
+#### Qwen Studio
 
-For users who simply would like to try Qwen3.6, [Qwen Chat](https://chat.qwen.ai) is just a touch away. 
-Qwen Chat provides Web UI and desktop and mobile applications, with a familiar, easy-to-use user interface.
-Qwen Chat is also a playground for our ideas, showcasing how Qwen3.6 can be integrated into your workflow and applications.
+For users who simply would like to try Qwen3.6, [Qwen Studio](https://chat.qwen.ai) is just a touch away. 
+Qwen Studio provides Web UI and desktop and mobile applications, with a familiar, easy-to-use user interface.
+Qwen Studio is also a playground for our ideas, showcasing how Qwen3.6 can be integrated into your workflow and applications.
 
 #### Qwen API
 
