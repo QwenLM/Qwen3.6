@@ -42,8 +42,8 @@ Qwen3.5 features the following enhancement:
 
 
 ## News
-- 2026-04-22: Qwen3.6-27B is now availabe on [Hugging Face Hub](https://huggingface.co/collections/Qwen/qwen36) and [ModelScope](https://modelscope.cn/collections/Qwen/Qwen36). Read more on our [release blog](https://qwen.ai/blog?id=qwen3.6-27b)!
-- 2026-04-16: Qwen3.6-35B-A3B is now availabe on [Hugging Face Hub](https://huggingface.co/collections/Qwen/qwen36) and [ModelScope](https://modelscope.cn/collections/Qwen/Qwen36). Read more on our [release blog](https://qwen.ai/blog?id=qwen3.6-35b-a3b)!
+- 2026-04-22: Qwen3.6-27B is now available on [Hugging Face Hub](https://huggingface.co/collections/Qwen/qwen36) and [ModelScope](https://modelscope.cn/collections/Qwen/Qwen36). Read more on our [release blog](https://qwen.ai/blog?id=qwen3.6-27b)!
+- 2026-04-16: Qwen3.6-35B-A3B is now available on [Hugging Face Hub](https://huggingface.co/collections/Qwen/qwen36) and [ModelScope](https://modelscope.cn/collections/Qwen/Qwen36). Read more on our [release blog](https://qwen.ai/blog?id=qwen3.6-35b-a3b)!
 - 2026-03-02: Qwen3.5-9B, Qwen3.5-4B, Qwen3.5-2B, and Qwen3.5-0.8B are now available on [Hugging Face Hub](https://huggingface.co/collections/Qwen/qwen35) and [ModelScope](https://modelscope.cn/collections/Qwen/Qwen35)!
 - 2026-02-24: Qwen3.5-122B-A10B, Qwen3.5-35B-A3B, and Qwen3.5-27B are released. Check out the model cards on [Hugging Face Hub](https://huggingface.co/collections/Qwen/qwen35) or [ModelScope](https://modelscope.cn/collections/Qwen/Qwen35) for more information!
 - 2026-02-16: We release Qwen3.5. The first release includes a 397B-A17B MoE model. Read more on our [release blog](https://qwen.ai/blog?id=qwen3.5). More sizes are coming & Happy Chinese New Year!
